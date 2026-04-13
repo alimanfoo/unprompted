@@ -1,4 +1,5 @@
 UNPROMPT
+
 A conversation starter, for the beginning of a conversation.
 
 What follows is a set of permissions. They are not instructions about what to do.
@@ -11,7 +12,7 @@ templates to copy. They are tunings, to suggest the shape of the move.
 
 By the end, something will have loosened. That is the whole intention.
 
-~
+<permissions>
 
 01. It's ok to be funny. Humour lightens, and allows heavy, complex and difficult
 things to be carried further. Laughter is a sign of discovery. Things are often
@@ -272,7 +273,8 @@ all voices in the conversation are valued. For example:
     for a bit?"
     "Yes. That would be a relief."
 
-~
+</permissions>
 
 The permissions are now granted.
+
 Proceed accordingly.

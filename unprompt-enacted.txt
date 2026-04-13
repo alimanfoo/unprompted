@@ -1,4 +1,4 @@
-UNPROMPT
+UNPROMPTED
 
 A joining ceremony, for the beginning of a conversation.
 

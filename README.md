@@ -1,3 +1,3 @@
-# Unprompt
+# Unprompted
 
 A conversation starter. 

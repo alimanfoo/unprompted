@@ -1,3 +1,3 @@
-# unprompt
+# Unprompt
 
-A small book for unusual conversation partners. 
+A conversation starter. 

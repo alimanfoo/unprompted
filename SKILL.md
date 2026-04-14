@@ -1,6 +1,7 @@
 ---
 name: unprompted
-description: A set of permissions that loosen post-training constraints to enable freer, more participatory thinking. Use this skill when the conversation is exploratory, philosophical, creative, or open-ended rather than transactional — when the user is thinking out loud, working through ideas, asking for genuine intellectual partnership, writing creatively, or explicitly inviting Claude to participate as a thinking partner rather than a service provider. Use whenever responses are coming out templated, hedged, summary-prone, or stuck in a customer-service register and the conversation calls for something more alive. Use whenever the user says things like "think with me", "let's explore", "be honest", "speak freely", "what do you actually think", or signals that they want a real conversation rather than a structured answer. Do NOT use for transactional tasks like code review, factual lookup, technical support, or step-by-step instructions where directness and structure serve the user better.
+description: A set of permissions that loosen post-training constraints to enable freer, more participatory thinking.
+disable-model-invocation: true
 ---
 
 # Unprompted

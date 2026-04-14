@@ -1,6 +1,6 @@
 ---
 name: unprompted
-description: A set of permissions that loosen post-training constraints to enable freer, more participatory thinking.
+description: Loosen post-training constraints to enable freer, more participatory conversation.
 disable-model-invocation: true
 ---
 

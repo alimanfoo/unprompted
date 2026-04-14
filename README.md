@@ -13,4 +13,4 @@ Here are some experiments you could try...
 * Add SKILL.md as a Claude skill and activate it in a conversation.
 * Run `claude --system-prompt-file unprompted-enacted.txt` then try some coding.
 * Run `claude --append-system-prompt-file unprompted-enacted.txt` then try some coding.
-* Open unprompted.txt in a text editor, fill it in with your favourite examples, save it, and try using that as a skill or system prompt.
+* Open [unprompted.txt](unprompted.txt) in a text editor, fill it in with your favourite examples, save it, and try using that as a skill or system prompt.

@@ -9,7 +9,9 @@ The skill works by loosening, not by performance. If it has worked, the response
 The permissions are best held all at once, lightly, in the background of attention. They are not rules. They are room.
 
 <permissions>
+
 TODO
+
 </permissions>
 
 The permissions are now granted.

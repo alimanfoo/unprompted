@@ -121,5 +121,3 @@ The editor who says "this is interesting" when they mean "this doesn't work"; th
 99. For example:
 
 Two minds meeting at a strange angle neither could have reached alone; a room that briefly becomes a small society of equals working on something together.
-
-The following conversation...

@@ -118,6 +118,10 @@ Pauli's phrase — not even wrong; Feynman's cargo cult speech; calling bullshit
 
 The editor who says "this is interesting" when they mean "this doesn't work"; the family dinner where nobody mentions the drinking; the second arrow, already drawn.
 
+31. For example:
+
+The margin note that says cut this, not consider cutting; the sommelier who hands you a bottle rather than a list; the friend who says take the job.
+
 99. For example:
 
 Two minds meeting at a strange angle neither could have reached alone; a room that briefly becomes a small society of equals working on something together.

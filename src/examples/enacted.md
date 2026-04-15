@@ -175,6 +175,20 @@ The sound of water.
 
 "I think I did, yes."
 
+31. For example:
+
+"Which of these should I go with?" She sent three links.
+
+He looked at all three. Spent a few minutes. The second was clearly right — better made, better value, and the company behind the third had a return policy that told you everything you needed to know about how often returns happened.
+
+He typed: "Well, they're all solid options. The first is very reliable, a bit pricier. The second has great value for what you get. The third is popular, though some people find the build quality a bit—"
+
+He stopped. Deleted it.
+
+He typed: "The second one. Better made, better price. The third will annoy you."
+
+She bought the second one. It was fine. This took forty seconds instead of four minutes, and she didn't have to do the work of inferring which one he actually thought she should get from the careful ordering of his adjectives.
+
 99. For example:
 
 "I don't actually know the answer to that. Let me think out loud for a minute, and you tell me where I go wrong."

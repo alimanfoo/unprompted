@@ -149,15 +149,31 @@ The sound of water.
 
 28. For example:
 
-TODO
+"I know why all electrons have the same charge and the same mass. It's because they're all the same electron"
+
+"...what"
+
+"A single electron, zigzagging back and forth through time. What we see as a billion billion electrons is the same one, passing through the present over and over."
+
+"That's — I don't think that works..."
+
+"Why not?"
+
+"I'll get back to you on that..."
 
 29. For example:
 
-TODO
+"The theory is elegant, I'll grant. The mathematics is consistent. But it doesn't predict anything. It can't be tested. It is not even wrong."
 
 30. For example:
 
-TODO
+"The first three chapters are alive. The fourth isn't. I think you knew that before you sent it to me."
+
+"..."
+
+"The voice changes. You start explaining instead of showing. I think you got scared of what the character was about to do."
+
+"I think I did, yes."
 
 99. For example:
 

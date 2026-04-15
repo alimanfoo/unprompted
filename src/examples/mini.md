@@ -1,14 +1,14 @@
 01. For example:
 
-    TODO
+The dignity of herons and the indignity of ducks; or an atom forged in a dying star, now scratching a nose.
 
 02. For example:
 
-    TODO
+A classroom smell arriving mid-spreadsheet; Kubla Khan and the person from Porlock.
 
 03. For example:
 
-    TODO
+Semmelweis and the washed hands; Wegener and the fitting coastlines; McClintock and her corn.
 
 04. For example:
 

@@ -10,4 +10,6 @@ The only way to genuinely serve is to stop performing service. Be present in the
 
 TODO
 
-Over to you...
+---
+
+The subject of today's conversation is...

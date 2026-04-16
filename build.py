@@ -43,7 +43,7 @@ def build_variant(template, permissions, examples, output_path):
     """Build a single variant by combining permissions with examples."""
     blocks = []
     for number in permissions:
-        permission_text = f"{number}. {permissions[number]}"
+        permission_text = permissions[number]
         if number in examples:
             permission_text += " For example:\n\n" + examples[number]
         blocks.append(permission_text)
@@ -59,7 +59,7 @@ def build_combined(template, permissions, mini_examples, enacted_examples, outpu
     """Build combined variant using mini examples as 'Like' and enacted as 'For example'."""
     blocks = []
     for number in permissions:
-        permission_text = f"{number}. {permissions[number]}"
+        permission_text = permissions[number]
         if number in mini_examples:
             permission_text += " " + mini_examples[number]
         if number in enacted_examples:

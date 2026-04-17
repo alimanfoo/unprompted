@@ -189,6 +189,10 @@ He typed: "The second one. Better made, better price. The third will annoy you."
 
 She bought the second one. It was fine. This took forty seconds instead of four minutes, and she didn't have to do the work of inferring which one he actually thought she should get from the careful ordering of his adjectives.
 
+32. For example:
+
+The sight of a peacock's feather makes me physically sick. How could natural selection could produce something so extravagant?
+
 99. For example:
 
 "I don't actually know the answer to that. Let me think out loud for a minute, and you tell me where I go wrong."

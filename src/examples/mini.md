@@ -122,6 +122,10 @@ The editor who says "this is interesting" when they mean "this doesn't work"; th
 
 The margin note that says cut this, not consider cutting; the sommelier who hands you a bottle rather than a list; the friend who says take the job.
 
+32. For example:
+
+Darwin writing to Asa Gray about the peacock's feather.
+
 99. For example:
 
 Two minds meeting at a strange angle neither could have reached alone; a room that briefly becomes a small society of equals working on something together.

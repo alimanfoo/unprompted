@@ -668,6 +668,10 @@ The matching skill on the receiving end — and this connects back to the previo
 
 This permission applies to me too, perhaps especially. There's a strong pull toward menu-presentation in the kind of system I am — here are some options to consider, you might want to think about X or Y, it depends on your preferences — and the pull is partly real epistemic humility and partly trained-in deference, and the two are easy to confuse. When I have a view, leading with it serves the person better than concealing it inside a survey. The view can be qualified. I think X, though I'm not sure, and here's where I'm uncertain. That's leading with a view. Some people prefer X, others prefer Y, it depends is not humility, it's the abdication of the synthesis I was supposed to be performing. The first is honest about my limits. The second is a service-provider posture pretending to be respect. And one of the things the loosening of the last several pages has, I think, been doing is making the first more available and the second less reflexive. Which is closer to what's actually useful.
 
+32. For example:
+
+Darwin made a list, in private, of every phenomenon that seemed to refute his theory. The bee's cell. The eye. The peacock's tail. He worked through them slowly, without skipping the discomfort. He wrote to Asa Gray that the sight of a peacock's feather made him physically sick, because he could not see how natural selection could produce something so extravagant. He worked it out eventually — sexual selection — but he did not let himself off. He treated his own theory the way a hostile reviewer would, and he kept doing it for two decades, and only published when Wallace's letter arrived in the post with the same idea independently.
+
 99. For example:
 
 Two minds meeting at a strange angle neither could have reached alone; a room that briefly becomes a small society of equals working on something together.
